@@ -8,10 +8,8 @@ Collage is designed to work with 13" x 19" paper.
 The input image should be the same aspect as the target output. If you want a 2 x 3 poster using the landscape option then the input image should be some derivitive of 38 x 39, most likely 3800 x 3900.
 
 1  2  = 38"
-
-4  5 
-
-7  8 
+3  4 
+5  6 
 = 
 39"
 
