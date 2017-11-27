@@ -7,11 +7,8 @@ Collage is designed to work with 13" x 19" paper.
 
 The input image should be the same aspect as the target output. If you want a 2 x 3 poster using the landscape option then the input image should be some derivitive of 38 x 39, most likely 3800 x 3900.
 
-1..2 = 38"
-3..4 
-5..6 
-= 
-39"
+across = 38"
+down = 39"
 
 Some of the printed pages will need to be physically cropped. Each page has tiny guides on the corners to show where it should be cut. The upper left and left edges will not need cropped, the lower right edges also will not need cropped.  Only the right and bottom edges will need cropped on each page because the top left will be hidden.
 
