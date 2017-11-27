@@ -1,0 +1,11 @@
+E:\Programs\Collage\bin\Debug\Collage.exe
+E:\Programs\Collage\bin\Debug\Collage.pdb
+E:\Programs\Collage\bin\Debug\Collage.xml
+E:\Programs\Collage\obj\Debug\Collage.vbprojResolveAssemblyReference.cache
+E:\Programs\Collage\obj\Debug\WindowsApplication1.MainWnd.resources
+E:\Programs\Collage\obj\Debug\WindowsApplication1.Resources.resources
+E:\Programs\Collage\obj\Debug\Collage.vbproj.GenerateResource.Cache
+E:\Programs\Collage\obj\Debug\Collage.vbproj.CoreCompileInputs.cache
+E:\Programs\Collage\obj\Debug\Collage.exe
+E:\Programs\Collage\obj\Debug\Collage.xml
+E:\Programs\Collage\obj\Debug\Collage.pdb
